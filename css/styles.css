@@ -1,0 +1,13 @@
+.image-wrapper{
+  background-color: #EA3556;
+  height: 200px;
+  display:flex;
+  justify-content:center;
+  background-image: url(images/download-1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.image-wrapper p{
+  align-self: flex-end;
+  margin: 1em auto;
+}
